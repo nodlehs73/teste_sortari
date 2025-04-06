@@ -1,0 +1,1 @@
+test_generators=("gen_test1.py" "gen_test2.py" "gen_random.py")
